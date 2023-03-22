@@ -1,2 +1,3 @@
-# Python_script_for_Seasonal_Rainfall_in_Africa_using_CHIRPS_File
-Seasonal map for rainfall in Africa (DJF,MAM,JJA, and SON)
+# Python_script_for_Mean_Rainfall_in_Africa_using_CHIRPS_File
+Average map for rainfall in Africa 
+
